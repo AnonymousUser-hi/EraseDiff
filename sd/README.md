@@ -1,5 +1,5 @@
 # EraseDiff for Stable Diffusion
-This is the official repository for EraseDiff for diffusion models. The code structure of this project is adapted from the [ESD](https://github.com/rohitgandikota/erasing/tree/main), [SA](https://github.com/clear-nus/selective-amnesia/tree/main/sd) and [SalUn](https://github.com/OPTML-Group/Unlearn-Saliency/tree/master/SD) codebase.
+This is the repository for EraseDiff. The code structure of this project is adapted from the [ESD](https://github.com/rohitgandikota/erasing/tree/main), [SA](https://github.com/clear-nus/selective-amnesia/tree/main/sd) and [SalUn](https://github.com/OPTML-Group/Unlearn-Saliency/tree/master/SD) codebase.
 
 # Requirements
 Install the requirements using a `conda` environment:
