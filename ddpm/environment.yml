@@ -1,4 +1,4 @@
-name: sa-ddpm
+name: ddpm
 channels:
   - defaults
 dependencies:
